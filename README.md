@@ -81,7 +81,7 @@ Entrar no Google Colab, clicar na pasta e realizar o upload do arquivo JSON
 
 Se necessário, renomear o arquivo antes de subir o upload ou mudar diretamente na célula [link](https://colab.research.google.com/drive/1l_U0AwxHxi2VtlhOUPAfr9W123BhT_KD#scrollTo=2j-jjiu3-_w0&line=8&uniqifier=1)
 
-## Pegar chave API JumpCloud
+## Coletar chave API JumpCloud
 
 Logar na plataforma JumpCloud como Administrador, coletar a API Key e colocar no Google Colab
 ![API KEY JC](https://github.com/pycriador/pyJumpCloud/blob/d2a2787efc65f5d9ee0f4b2c84f2987a46e034a7/imagens/JumpCloud%20API%20Key.PNG)
