@@ -6,6 +6,10 @@ O desafio será criar um código em python que:
 2. Recupere os dados do usuários
 3. Crie os usuários no JumpCloud (via API) com os dados adquiridos no passo
 
+### Link do Projeto
+
+[Google Colab](https://colab.research.google.com/drive/1l_U0AwxHxi2VtlhOUPAfr9W123BhT_KD?usp=sharing)
+
 ### Pré-requisitos:
 
 #### Opcional:
@@ -68,6 +72,19 @@ Clicar em CHAVES e ADICIONAR CHAVE
 
 Clicar em JSON e depois CRIAR
 ![Criar JSON](https://github.com/pycriador/pyJumpCloud/blob/b78b4fcdd44867c3ab579fcb984cc44723cb635e/imagens/Criar%20chave%20JSON.PNG)
+
+
+## Realizando Upload da chave JSON no projeto
+
+Entrar no Google Colab, clicar na pasta e realizar o upload do arquivo JSON
+![Upload JSON](https://github.com/pycriador/pyJumpCloud/blob/bcd95e3c36300ddae91a3af9095115b94392385d/imagens/Subir%20chave%20JSON.PNG)
+
+Se necessário, renomear o arquivo antes de subir o upload ou mudar diretamente na célula [link](https://colab.research.google.com/drive/1l_U0AwxHxi2VtlhOUPAfr9W123BhT_KD#scrollTo=2j-jjiu3-_w0&line=8&uniqifier=1)
+
+## Pegar chave API JumpCloud
+
+Logar na plataforma JumpCloud como Administrador, coletar a API Key e colocar no Google Colab
+![API KEY JC](https://github.com/pycriador/pyJumpCloud/blob/d2a2787efc65f5d9ee0f4b2c84f2987a46e034a7/imagens/JumpCloud%20API%20Key.PNG)
 
 #### Documentações úteis:
 
